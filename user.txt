@@ -1,1 +1,6 @@
+rakib|1234|student
+anika|1234|student
+tahmid|1234|student
+nusrat|1234|student
+sabbir|1234|student
 admin|admin123|admin
