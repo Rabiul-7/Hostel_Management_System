@@ -1,0 +1,7 @@
+E-710|occupied
+E-711|vacant
+E-712|occupied
+E-713|vacant
+E-714|vacant
+W-710|vacant
+W-200|occupied
