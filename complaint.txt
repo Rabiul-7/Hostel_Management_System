@@ -1,3 +1,2 @@
-242-35-249|bal fallo naput
-242-35-249|tor nanir heda bainchud
-242-35-219|fan nosto magir chele
+STD1002|Fan is not working in my room
+STD1004|Bathroom is dirty
