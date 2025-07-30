@@ -1,2 +1,5 @@
-khandakar rabiul hasan|SWE|3rd|242-35-249|017xxxxxxxxx|E-710|somrat
-tanjim islam|swe|3rd|242-35-219|017xxxxxxxxx|E-712|tanjim
+Rakib Hasan|CSE|5th|STD1001|01711112222|101|rakib
+Anika Rahman|EEE|3rd|STD1002|01722223333|102|anika
+Tahmid Alam|BBA|2nd|STD1003|01733334444|103|tahmid
+Nusrat Jahan|CSE|6th|STD1004|01744445555|104|nusrat
+Sabbir Hossain|CIVIL|1st|STD1005|01755556666|105|sabbir
