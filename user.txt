@@ -1,0 +1,3 @@
+admin|admin|admin
+somrat|20218|student
+tanjim|2021|student
